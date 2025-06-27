@@ -1,0 +1,52 @@
+.heding{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.pera{
+    font-size: 22px;
+    line-height: 1.7;
+}
+.abouttext{
+    font-size: 50px;
+    color:blueviolet;
+}
+.pera-2{
+    font-size: 20px;
+    line-height:1.6;
+    font-weight: 500;
+}
+.heding-area{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 1.9;
+}
+.menu-area >a:hover{
+    color: lightcoral!important;
+    background: linear-gradient();
+}
+.input-area{
+   padding-top: 150px;
+}
+.con{
+    padding-top:5%;
+    color:rgb(121, 213, 216);
+}
+.text{
+    padding-top:5% ;
+}
+.icon-area{
+    padding-top: 10%;
+}
+.myemail{
+    border: 3px solid #fff;
+    height: 6rem;
+    border-radius: 50px;
+    font-size: 15px;
+    
+}
+
+
+
+
+
+              
